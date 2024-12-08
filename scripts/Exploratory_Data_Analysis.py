@@ -7,3 +7,4 @@ summary_statistics = df.describe() #Calculate summary statistics
 print(summary_statistics) # Print the summary statisti
 
 
+
